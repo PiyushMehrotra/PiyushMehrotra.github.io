@@ -336,7 +336,7 @@ nav .fa-solid{
 }
 
 @media only screen and (max-width: 600px){
-    #header{
+    .header{
         background-image: url(https://i.ibb.co/pxHL65t/phone-background.png);
     }
     .header-text{
